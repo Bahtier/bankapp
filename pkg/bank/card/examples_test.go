@@ -1,4 +1,4 @@
-package payment
+package card
 import(
 	"fmt"
 	"bank/pkg/bank/types"	
